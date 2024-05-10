@@ -51,5 +51,7 @@ class Stack {
          }
    }
 
-
+    bool isEmpty() {
+        
+    }
 };

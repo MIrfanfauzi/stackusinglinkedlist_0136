@@ -52,6 +52,6 @@ class Stack {
    }
 
     bool isEmpty() {
-        
+        return top == NULL;   
     }
 };
